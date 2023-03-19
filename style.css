@@ -1,0 +1,14 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    height: 100vh;
+   
+    background: yellow;
+    font-size: 3rem;
+    font-family: sans-serif;
+    color: rgb(106, 17, 17);
+}
